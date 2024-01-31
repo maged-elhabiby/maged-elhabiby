@@ -4,7 +4,7 @@ Welcome to my page👋!
 I'm Maged El Habiby,Software Engineering student at the Schulich School of Engineering, University of Calgary, specializing in Mechatronics and Software Development .
 
 ## 👀 Interests & Focus
-I am deeply fascinated by the potential and ethics behind Artificial General Intelligence (AGI). My interests also extend to full-stack development, cybersecurity, and network technologies. Another passion of mine is accessibility design, ensuring that technology is usable and beneficial to all. Currently, I'm immersing myself in the world of AI, eagerly learning and exploring its various facets.
+I am deeply fascinated by the potential and ethics behind Artificial General Intelligence (AGI). In addition, I interested in quantum computing and quantum machine learning, it's development and application in the real world. My interests also extend to full-stack development, cybersecurity, and network technologies. Another passion of mine is accessibility design, ensuring that technology is usable and beneficial to all. Currently, I'm immersing myself in the world of AI, eagerly learning and exploring its various facets.
 
 ## 👥 Favourite People to work with
 I enjoy collaborating with innovative minds like Ben Zuidama (@ben-zuidema), Mazen El Habiby (@mazen-elhabiby), and Marshal Kalynchuk (@Marshal-Kalynchuk).
