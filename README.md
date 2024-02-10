@@ -1,13 +1,21 @@
 # Maged El Habiby 🚀
 
-Welcome to my page👋! 
-I'm Maged El Habiby,Software Engineering student at the Schulich School of Engineering, University of Calgary, specializing in Mechatronics and Software Development .
+I'm a Software Engineering student with a focus in Mechatronics and Software Development at the University of Calgary's Schulich School of Engineering.
 
 ## 👀 Interests & Focus
-I am deeply fascinated by the potential and ethics behind Artificial General Intelligence (AGI). In addition, I interested in quantum computing and quantum machine learning, it's development and application in the real world. My interests also extend to full-stack development, cybersecurity, and network technologies. Another passion of mine is accessibility design, ensuring that technology is usable and beneficial to all. Currently, I'm immersing myself in the world of AI, eagerly learning and exploring its various facets.
+
+* Artificial General Intelligence (AGI), particularly its potential and ethical considerations.
+* Quantum computing and quantum machine learning.
+* Full-stack development, cybersecurity, and network technologies.
+* Accessibility design. 
 
 ## 👥 Favourite People to work with
-I enjoy collaborating with innovative minds like Ben Zuidama (@ben-zuidema), Mazen El Habiby (@mazen-elhabiby), and Marshal Kalynchuk (@Marshal-Kalynchuk).
+
+I thrive when working with innovative individuals. Some of my favourite people to work with include:
+
+* Ben Zuidama (@ben-zuidema)
+* Mazen El Habiby (@mazen-elhabiby)
+* Marshal Kalynchuk (@Marshal-Kalynchuk)
 
 ## 💻 Coding Language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
