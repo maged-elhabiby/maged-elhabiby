@@ -1,15 +1,17 @@
 # Maged El Habiby 🚀
 
-I'm a Software Engineering student with a focus in Mechatronics and Software Development at the University of Calgary's Schulich School of Engineering.
+I'm a Software Engineering student with a focus in Mechatronics and Software Development at the University of Calgary's Schulich School of Engineering. Currently interning as a Site Reliability Engineer Intern at Cisco XDR.
 
 ## 👀 Interests & Focus
 
 * Artificial General Intelligence (AGI), particularly its potential and ethical considerations.
+* Computer Vision and Deep Learning
 * Quantum computing and quantum machine learning.
 * Full-stack development, cybersecurity, and network technologies.
 * AR and VR Technologies
 * Ops and Infrastructure
 * Accessibility design. 
+
 
 ## 👥 Favourite People to work with
 
