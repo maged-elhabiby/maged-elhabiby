@@ -10,7 +10,11 @@ I'm an **AI Engineering Intern at Splunk, a Cisco company**, and an **MSc studen
 
 I like building useful AI tools and figuring out how machines can make sense of the physical world.
 
-[Email](mailto:magedelhabiby@gmail.com) · [LinkedIn](https://www.linkedin.com/in/magedelhabiby/)
+<p>
+  <a href="https://www.linkedin.com/in/magedelhabiby/"><img src="assets/linkedin.svg" alt="LinkedIn" width="112" height="32"></a>
+  &nbsp;
+  <a href="mailto:magedelhabiby@gmail.com"><img src="assets/email.svg" alt="Email" width="96" height="32"></a>
+</p>
 
 ## Research & robotics
 
