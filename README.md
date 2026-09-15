@@ -1,4 +1,10 @@
-# Maged El Habiby
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/maged-header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/maged-header-light.svg">
+    <img src="assets/maged-header-light.svg" alt="Maged El Habiby" width="620">
+  </picture>
+</h1>
 
 I'm an **AI Engineering Intern at Splunk, a Cisco company**, and an **MSc student at the University of Calgary**, researching **world models for Physical AI**.
 
@@ -24,24 +30,24 @@ Co-author of *Improving mmWave Vital-Sign Monitoring with Segmented Phase-Differ
 
 ## Languages & tools
 
-* **Languages:** Python, C/C++, C#, Java, JavaScript, PHP, MATLAB, SQL, Bash.
-* **AI & robotics:** PyTorch, ROS 2, OpenCV, NumPy, pandas.
-* **LLM & agent systems:** LangChain, LangGraph, LangSmith, AWS Bedrock, MCP.
-* **Cloud & infrastructure:** AWS, Kubernetes, Docker, Terraform, GitHub Actions, Linux.
-* **Web:** React, Node.js.
-* **Observability:** Datadog, Splunk.
+- **Languages:** Python, C/C++, C#, Java, JavaScript, PHP, MATLAB, SQL, Bash.
+- **AI & robotics:** PyTorch, ROS 2, OpenCV, NumPy, pandas.
+- **LLM & agent systems:** LangChain, LangGraph, LangSmith, AWS Bedrock, MCP.
+- **Cloud & infrastructure:** AWS, Kubernetes, Docker, Terraform, GitHub Actions, Linux.
+- **Web:** React, Node.js.
+- **Observability:** Datadog, Splunk.
 
 ## People I like building with
 
 A few of my favourite people to work with, and fellow VitalWaves teammates:
 
-* [Ben Zuidema](https://github.com/ben-zuidema)
-* [Mazen El Habiby](https://github.com/mazen-elhabiby)
-* [Marshal Kalynchuk](https://github.com/Marshal-Kalynchuk)
-* [Samir Sakr](https://github.com/SamsterHamster)
+- [Ben Zuidema](https://github.com/ben-zuidema)
+- [Mazen El Habiby](https://github.com/mazen-elhabiby)
+- [Marshal Kalynchuk](https://github.com/Marshal-Kalynchuk)
+- [Samir Sakr](https://github.com/SamsterHamster)
 
 ## Outside work
 
-Soccer, Basketball, Tennis, Cool Engineering Stuff, Gaming, Art and Music keep me busy outside work. I speak English, French, and Arabic.
+Soccer, gaming, and music keep me busy outside work. I speak English, French, and Arabic.
 
-I also have a robot dog, so even my side projects have legs.
+I also have a robot dog, so even my side projects have legs. 🐕
